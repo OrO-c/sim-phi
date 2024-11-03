@@ -20,16 +20,6 @@ Special thanks to [@AsakuraMizu](https://github.com/AsakuraMizu) for the strong 
 以及看到这个页面的你！  
 And You, for visiting this page!
 
-## 文档 | Documentation
-
-访问 <!-- prettier-ignore -->[docs.lchz&#104;.net](https://docs.lchz&#104;.net/project/sim-phi-core) (WIP/开发中) 以查看文档。  
-There is no English documentation available yet; use a translator if necessary.
-
-## 更新日志 | Changelog
-
-每个版本的详细更改都记录在 [CHANGELOG.md](CHANGELOG.md) 中。  
-Detailed changes for each version are documented in [CHANGELOG.md](CHANGELOG.md).
-
 ## 声明 | Disclaimer
 
 本项目源码由 [lchz&#104;3473](https://github.com/lchz&#104;3473) 独立编写，与游戏本体无关；  
